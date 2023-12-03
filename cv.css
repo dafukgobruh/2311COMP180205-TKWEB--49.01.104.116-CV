@@ -1,0 +1,19 @@
+.row{
+    border: 5px solid black;
+    margin-top: 10%;
+    border-radius: 10px;
+}
+.col-5{
+text-align: left;
+}
+.col-7{
+    background-color: black;
+    color: azure;
+    text-align: left;
+}
+h2{
+    text-align: center;
+}
+img{
+    margin-left: 30%;
+}
